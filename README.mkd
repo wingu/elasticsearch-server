@@ -1,0 +1,6 @@
+# Elastic Search Server #
+
+Packages Elastic Search server as a python package for easy installation to a virtualenv environment.
+
+# Caveats #
+Expects virtualenv to be in use.
